@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Review/ArrayAndCollection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Review/StaticAndInstead" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Review/Type" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Review/Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Review/Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/InputOutput" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
