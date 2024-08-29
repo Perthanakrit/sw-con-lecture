@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/review/Method" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/review/StaticAndInstead" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/review/Type" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/ExceptionHandler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/InterfaceLec" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
