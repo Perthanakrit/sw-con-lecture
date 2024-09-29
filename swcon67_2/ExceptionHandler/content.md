@@ -11,12 +11,12 @@
 
 ### Hierarchy
 
-Object\
-|__ Throwable\
-    |__ Error\
-    |__ Exception 
-        |__ RuntimeException
-        |__ IOException (Checked Exception)
+    Object
+    |__ Throwable
+        |__ Error
+        |__ Exception  
+            |__ RuntimeException
+            |__ IOException (Checked Exception)
 
 ### Error
 ### Unchecked Exception
