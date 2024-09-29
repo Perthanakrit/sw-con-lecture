@@ -11,6 +11,11 @@
       <sourceFolder url="file://$MODULE_DIR$/review/Type" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/swcon67_2/ExceptionHandler" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/swcon67_2/InterfaceLec" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/Generic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/InfoHiding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/strategy-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/observer-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/assignments" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
