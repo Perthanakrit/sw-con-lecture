@@ -1,2 +1,7 @@
-package atm;public interface DataSource {
+package atm;
+
+import java.util.Map;
+
+public interface DataSource {
+    Map<Integer, Customer> readCustomers();
 }

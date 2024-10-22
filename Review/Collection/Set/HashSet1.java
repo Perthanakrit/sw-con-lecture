@@ -1,4 +1,6 @@
-package Map;
+package Set;
+
+import Model.Student;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -11,13 +13,12 @@ public class HashSet1 {
         set.add("A");
 
         HashSet<Student> hashSet = new HashSet<>();
-        hashSet.add(new Student("b", 10));
-        hashSet.add(new Student("z", 20));
-
-        System.out.println(hashSet.toString());
+        hashSet.add(new Student("b", 19));
+        hashSet.add(new Student("b", 18));
+//        System.out.println(hashSet.toString());
 
         for (Student s : hashSet) {
-            System.out.println(s.getName());
+            System.out.println(s);
         }
 
         TreeSet<String> treeSet = new TreeSet<>(set);

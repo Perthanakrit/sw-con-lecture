@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/swcon67_2/strategy-pattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/swcon67_2/observer-pattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/swcon67_2/assignments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swcon67_2/atm-di/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/review/Collection" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
